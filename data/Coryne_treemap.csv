@@ -1,0 +1,62 @@
+imodulon_name,function,catagory,explained_variance
+Zur,Zinc ABC transporter,Metal,0.003379684
+YqjI,DNA replication,Translation,0.001592514
+WblB,Energy generation,Energy generation,0.002634176
+Tyrosine metabolism,Tyrosine metabolism,Amino acid,0.014428867
+TRAP transporter-2,TRAP-transporter-2,Transport,0.003875016
+TRAP transporter,TRAP-transporter,Transport,0.000957204
+Translation related,translation-related,Translation,0.001467662
+Thiamine metabolism,Thiamine-metabolism,Misc metabolism,0.005155628
+TcsR,two-component system,Stress,0.002108549
+Sulfate reduction,Sulfur metabolism,Redox,0.003878719
+SufR,Fe-S cluster,Metal,0.004687027
+SsuR,Sulfur metabolism,Misc metabolism,0.00438068
+Signal transduction,Signal transduction,Other Functional,0.001246951
+SigD operon,SigD operon,Other Functional,0.003551138
+SigC,Energy generation,Stress,0.001425518
+RipA,RipA,Metal,0.007605521
+Ribosome,Ribosome structual and translation,Translation,0.04942899
+Replication-3,Replication,Replication,0.005349433
+Replication-2,Replication-2,Replication,0.002366091
+Replication,Replication,Replication,0.036323193
+Redox related,redox-related,Redox,0.000917251
+RbsR,Ribose utilization,Carbon,0.003645382
+QacR,Drug resistance,Stress,0.00519084
+Pyruvate related,pyruvate-related,Carbon,0.002530365
+PrpR,Carbon,Carbon,0.001605902
+Proline transport,proline-betaine transporter,Amino acid,0.003257745
+Polyketide synthase,ployketide synthase,Misc metabolism,0.002027568
+Peroxide stress,peroxide stress,Redox,0.000994245
+PdxR,pyridoxine biosynthesis,Misc metabolism,0.001995265
+PcaO,redox,Carbon,0.001738221
+NrtR,NAD biosynthesis,Coenzyme,0.002259537
+MetE operon,unknown,Other Functional,0.003507265
+MepA deletion,unknown,Other Functional,0.000771404
+lipid metabolism,metabolism,Misc metabolism,0.003349613
+KmtR,WA5_RS13915,Misc metabolism,0.002085085
+IolR,Inositol phosphate metabolism,Carbon,0.008273755
+Intracellular trafficking,Intracellular trafficking,Other Functional,0.012624189
+HutC,Histidine utilization,Amino acid,0.001025562
+Histidine biosynthetic,histidine biosynthetic,Amino acid,0.011232943
+GabR,Gamma-aminobutyrate utilization,Amino acid,0.002531405
+FruR-NanR,Carbohydrate transport and metabolism,Carbon,0.008432627
+Fructose utilization,growth related,Carbon,0.015410197
+RamA,Energy generation,Energy generation,0.00691002
+DtxR,Iron homeostasis,Metal,0.006006586
+Cysteine biosynthesis,Cysteine biosynthesis,Amino acid,0.006943228
+Copper utilization,copper and ion transport,Metal,0.003421247
+Cobalt transport,Cobalt transport,Metal,0.003108001
+Cg3249,redox,Redox,0.000512987
+Cg2712,Energy production,Energy generation,0.012256364
+Cg1084,two-component system,Stress,0.0013985
+Cg0725,Degradation of aromatic compounds,Misc metabolism,0.019914809
+Cg0646,Cg0646,Carbon,0.012829267
+Cell membrane-1,cell-membrane-1,Other Functional,0.012373785
+CadA operon,unknown,Other Functional,0.001263847
+ArsR,Coenzyme transport and metabolism,Coenzyme,0.001613527
+Aromatic degradation,Aromatic-degradation ,Misc metabolism,0.01074102
+ArgR,Arginine biosynthesis,Amino acid,0.003051257
+AmtR,Nitrogen metabolism,Misc metabolism,0.006217038
+Amino acid related-2,Amino acid,Amino acid,0.000557139
+Amino acid related,amino acid related,Amino acid,0.013170573
+AcpP operon,metabolism,Misc metabolism,0.022359327
