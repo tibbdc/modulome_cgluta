@@ -1,0 +1,35 @@
+,gene_id,gene_name,gene_ontology
+1,WA5_RS10870,pimB,phosphatidylinositol alpha-mannosyltransferase activity
+2,WA5_RS10870,pimB,"initiation-specific glycolipid 1,6-alpha-mannosyltransferase activity"
+3,WA5_RS10870,pimB,glycolipid biosynthetic process
+19,WA5_RS13360,radA,SOS response
+20,WA5_RS14450,glpK,glycerol kinase activity
+21,WA5_RS14450,glpK,glycerol metabolic process
+33,WA5_RS03925,pdxT,SOS response
+35,WA5_RS03990,hisN,histidinol-phosphatase activity
+36,WA5_RS03990,hisN,L-histidine biosynthetic process
+43,WA5_RS06860,uvrA,SOS response
+56,WA5_RS07700,acnR,DNA binding
+57,WA5_RS07700,acnR,magnesium ion binding
+58,WA5_RS07700,acnR,regulation of DNA-templated transcription
+76,WA5_RS04470,betP,identical protein binding
+77,WA5_RS04470,betP,identical protein binding
+78,WA5_RS04470,betP,identical protein binding
+79,WA5_RS04470,betP,identical protein binding
+80,WA5_RS04470,betP,identical protein binding
+101,WA5_RS10725,murC,UDP-N-acetylmuramate-L-alanine ligase activity
+106,WA5_RS08280,ruvA,SOS response
+107,WA5_RS08275,ruvB,SOS response
+110,WA5_RS01905,ramB,DNA binding
+111,WA5_RS01905,ramB,regulation of DNA-templated transcription
+112,WA5_RS01905,ramB,regulation of DNA-templated transcription
+128,WA5_RS06330,ilvC,2-dehydropantoate 2-reductase activity
+137,WA5_RS05070,glpX,"fructose 1,6-bisphosphate 1-phosphatase activity"
+138,WA5_RS05070,glpX,"fructose 1,6-bisphosphate metabolic process"
+139,WA5_RS05070,glpX,magnesium ion binding
+140,WA5_RS05070,glpX,manganese ion binding
+141,WA5_RS05070,glpX,gluconeogenesis
+142,WA5_RS07925,gap,glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity
+143,WA5_RS07925,gap,NAD binding
+149,WA5_RS10570,ilvA,threonine metabolic process
+150,WA5_RS09740,recA,SOS response

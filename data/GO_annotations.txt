@@ -1,0 +1,151 @@
+UniProtKB	Q8NNV2	Cgl2078		PMID:19372162IF: 3.5 Q2 	EXP		P	ABC-type transporter, ATPase component and permease component		protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
+UniProtKB	Q8NNK8	pimB		PMID:19395496IF: 3.0 Q3 	IDA		F	GDP-mannose-dependent monoacylated alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase	Cgl2186|cg2400	protein	NCBITaxon:196627	20110815	UniProt			GO:0043750	phosphatidylinositol alpha-mannosyltransferase activity
+UniProtKB	Q8NNK8	pimB		PMID:19395496IF: 3.0 Q3 	IDA		F	GDP-mannose-dependent monoacylated alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase	Cgl2186|cg2400	protein	NCBITaxon:196627	20110815	UniProt			GO:0033164	initiation-specific glycolipid 1,6-alpha-mannosyltransferase activity
+UniProtKB	Q8NNK8	pimB		PMID:19395496IF: 3.0 Q3 	IDA		P	GDP-mannose-dependent monoacylated alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase	Cgl2186|cg2400	protein	NCBITaxon:196627	20110815	UniProt			GO:0009247	glycolipid biosynthetic process
+UniProtKB	Q8NNK6	Cgl2188		GO_REF:0000024	ISS	UniProtKB:A4QFQ3	C	Probable endopeptidase Cgl2188	cg2402	protein	NCBITaxon:196627	20101001	UniProt			GO:0005576	extracellular region
+UniProtKB	Q8NNH3	Cgl2230		PMID:19372162IF: 3.5 Q2 	EXP		P	DUF2786 domain-containing protein		protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
+UniProtKB	Q8NNC4	Cgl2280		PMID:23061624IF: 4.2 Q2 	IPI	RefSeq:NC_009342.1	C	Fe2+/Zn2+ uptake regulation proteins		protein	NCBITaxon:196627	20170328	CollecTF			GO:0032993	protein-DNA complex
+UniProtKB	Q8NNC4	Cgl2280		PMID:23061624IF: 4.2 Q2 	IPI	RefSeq:NC_009342.1	F	Fe2+/Zn2+ uptake regulation proteins		protein	NCBITaxon:196627	20170328	CollecTF			GO:0001217	DNA-binding transcription repressor activity
+UniProtKB	Q8NNC4	Cgl2280		PMID:23061624IF: 4.2 Q2 	IPI	RefSeq:NC_009342.1	F	Fe2+/Zn2+ uptake regulation proteins		protein	NCBITaxon:196627	20170328	CollecTF			GO:0000976	transcription cis-regulatory region binding
+UniProtKB	Q8NNC4	Cgl2280		PMID:20055984IF: 3.7 Q2 	EXP		P	Fe2+/Zn2+ uptake regulation proteins		protein	NCBITaxon:196627	20170328	CollecTF			GO:0045892	negative regulation of DNA-templated transcription
+UniProtKB	Q8NNC4	Cgl2280		PMID:23061624IF: 4.2 Q2 	EXP		P	Fe2+/Zn2+ uptake regulation proteins		protein	NCBITaxon:196627	20170328	CollecTF			GO:0045892	negative regulation of DNA-templated transcription
+UniProtKB	Q8NNC4	Cgl2280		PMID:20055984IF: 3.7 Q2 	IMP		C	Fe2+/Zn2+ uptake regulation proteins		protein	NCBITaxon:196627	20170328	CollecTF			GO:0032993	protein-DNA complex
+UniProtKB	Q8NNC4	Cgl2280		PMID:20055984IF: 3.7 Q2 	IMP		F	Fe2+/Zn2+ uptake regulation proteins		protein	NCBITaxon:196627	20170328	CollecTF			GO:0001217	DNA-binding transcription repressor activity
+UniProtKB	Q8NNC4	Cgl2280		PMID:20055984IF: 3.7 Q2 	IMP		F	Fe2+/Zn2+ uptake regulation proteins		protein	NCBITaxon:196627	20170328	CollecTF			GO:0000976	transcription cis-regulatory region binding
+UniProtKB	Q8NML3	ramA		PMID:19095019IF: 3.9 Q2 	IDA		F	HTH-type transcriptional activator RamA	Cgl2560|cg2831	protein	NCBITaxon:196627	20150324	UniProt			GO:0003677	DNA binding
+UniProtKB	Q8NML3	ramA		PMID:18355281IF: 2.2 Q3 	IMP		P	HTH-type transcriptional activator RamA	Cgl2560|cg2831	protein	NCBITaxon:196627	20150324	UniProt			GO:0006083	acetate metabolic process
+UniProtKB	Q8NML3	ramA		PMID:16547043IF: 3.0 Q3 	IMP		P	HTH-type transcriptional activator RamA	Cgl2560|cg2831	protein	NCBITaxon:196627	20150324	UniProt			GO:0006355	regulation of DNA-templated transcription
+UniProtKB	Q8NML3	ramA		PMID:19095019IF: 3.9 Q2 	IMP		P	HTH-type transcriptional activator RamA	Cgl2560|cg2831	protein	NCBITaxon:196627	20150324	UniProt			GO:0006355	regulation of DNA-templated transcription
+UniProtKB	Q8NML3	ramA		PMID:18355281IF: 2.2 Q3 	IMP		P	HTH-type transcriptional activator RamA	Cgl2560|cg2831	protein	NCBITaxon:196627	20150324	UniProt			GO:0006355	regulation of DNA-templated transcription
+UniProtKB	Q8NMB3	radA		PMID:19372162IF: 3.5 Q2 	EXP		P	DNA repair protein RadA	Cgl2665	protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
+UniProtKB	Q8NLP9	glpK		GO_REF:0000024	ISS	UniProtKB:P0A6F3	F	Glycerol kinase	Cgl2890|cg3198	protein	NCBITaxon:196627	20130927	UniProt			GO:0004370	glycerol kinase activity
+UniProtKB	Q8NLP9	glpK		GO_REF:0000024	ISS	UniProtKB:P0A6F3	P	Glycerol kinase	Cgl2890|cg3198	protein	NCBITaxon:196627	20130927	UniProt			GO:0006071	glycerol metabolic process
+UniProtKB	Q8NSL3	prpD2		PMID:11976302IF: 3.0 Q3 	IDA		P	2-methylcitrate dehydratase 2	Cgl0657|cg0759	protein	NCBITaxon:196627	20150213	UniProt			GO:0019679	propionate metabolic process, methylcitrate cycle
+UniProtKB	Q8NSL3	prpD2		PMID:11976302IF: 3.0 Q3 	IDA		F	2-methylcitrate dehydratase 2	Cgl0657|cg0759	protein	NCBITaxon:196627	20150213	UniProt			GO:0047547	2-methylcitrate dehydratase activity
+UniProtKB	Q8NSL1	prpC2		PMID:11976302IF: 3.0 Q3 	IDA		F	2-methylcitrate synthase 2	Cgl0659|cg0762	protein	NCBITaxon:196627	20150211	UniProt			GO:0036440	citrate synthase activity
+UniProtKB	Q8NSL1	prpC2		PMID:11976302IF: 3.0 Q3 	IDA		P	2-methylcitrate synthase 2	Cgl0659|cg0762	protein	NCBITaxon:196627	20150211	UniProt			GO:0019679	propionate metabolic process, methylcitrate cycle
+UniProtKB	Q8NSL1	prpC2		PMID:11976302IF: 3.0 Q3 	IDA		F	2-methylcitrate synthase 2	Cgl0659|cg0762	protein	NCBITaxon:196627	20150211	UniProt			GO:0050440	2-methylcitrate synthase activity
+UniProtKB	Q8NSH9	prpD1		PMID:11976302IF: 3.0 Q3 	IDA		F	2-methylcitrate dehydratase 1	Cgl0694|cg0796	protein	NCBITaxon:196627	20150213	UniProt			GO:0047547	2-methylcitrate dehydratase activity
+UniProtKB	Q8NSH7	prpC1		PMID:11976302IF: 3.0 Q3 	IDA		F	2-methylcitrate synthase 1	Cgl0696|cg0798	protein	NCBITaxon:196627	20150211	UniProt			GO:0036440	citrate synthase activity
+UniProtKB	Q8NSH7	prpC1		PMID:11976302IF: 3.0 Q3 	IDA		F	2-methylcitrate synthase 1	Cgl0696|cg0798	protein	NCBITaxon:196627	20150211	UniProt			GO:0050440	2-methylcitrate synthase activity
+UniProtKB	Q8NSE9	Cgl0727		PMID:19372162IF: 3.5 Q2 	EXP		P	ABC-type transporter, periplasmic component		protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
+UniProtKB	Q8NSE2	Cgl0734		PMID:19372162IF: 3.5 Q2 	EXP		P	DUF262 domain-containing protein		protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
+UniProtKB	Q8NSB1	Cgl0766		PMID:19372162IF: 3.5 Q2 	EXP		P	HNH domain-containing protein		protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
+UniProtKB	Q8NS90	pdxT		PMID:19372162IF: 3.5 Q2 	EXP		P	Pyridoxal 5'-phosphate synthase subunit PdxT	Cgl0789|cg0899	protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
+UniProtKB	Q8NRW3	Cgl0928		PMID:19372162IF: 3.5 Q2 	EXP		P	DUF222 domain-containing protein		protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
+UniProtKB	Q8NS80	hisN		PMID:16901339IF: 3.7 Q2 	IMP		F	Histidinol-phosphatase	Cgl0799|cg0910	protein	NCBITaxon:196627	20101213	UniProt			GO:0004401	histidinol-phosphatase activity
+UniProtKB	Q8NS80	hisN		PMID:16901339IF: 3.7 Q2 	IMP		P	Histidinol-phosphatase	Cgl0799|cg0910	protein	NCBITaxon:196627	20101213	UniProt			GO:0000105	L-histidine biosynthetic process
+UniProtKB	Q8NRR8	Cgl0977		PMID:19304823IF: 3.7 Q2 	IDA		F	Ppx/GppA phosphatase N-terminal domain-containing protein		protein	NCBITaxon:196627	20160411	CACAO			GO:0004309	exopolyphosphatase activity
+UniProtKB	Q8NRF6	Cgl1093		GO_REF:0000024	ISS	UniProtKB:A4QD57	C	Putative peptidase Cgl1093	cg1243	protein	NCBITaxon:196627	20101001	UniProt			GO:0005576	extracellular region
+UniProtKB	Q8NRB5	Cgl1137		PMID:19372162IF: 3.5 Q2 	EXP		P	Major facilitator superfamily (MFS) profile domain-containing protein		protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
+UniProtKB	Q8NRB4	Cgl1138		PMID:19372162IF: 3.5 Q2 	EXP		P	Major facilitator superfamily (MFS) profile domain-containing protein		protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
+UniProtKB	Q8NR87	Cgl1166		PMID:19372162IF: 3.5 Q2 	EXP		P	Calcineurin-like phosphoesterase domain-containing protein		protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
+UniProtKB	Q8NQQ1	Cgl1375		PMID:19372162IF: 3.5 Q2 	EXP		P	Metallo-beta-lactamase domain-containing protein		protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
+UniProtKB	Q8NQQ0	uvrA		PMID:19372162IF: 3.5 Q2 	EXP		P	UvrABC system protein A	Cgl1376	protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
+UniProtKB	Q8NR02	Cgl1265		PMID:19372162IF: 3.5 Q2 	EXP		P	GmrSD restriction endonucleases C-terminal domain-containing protein		protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
+UniProtKB	Q8NQM0	Cgl1414		PMID:19372162IF: 3.5 Q2 	EXP		P	DNA repair protein RecN		protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
+UniProtKB	Q8NQJ3	odhI		PMID:20303957IF: 3.0 Q2 	IPI	UniProtKB:Q8NRC3	F	Oxoglutarate dehydrogenase inhibitor	Cgl1441|cg1630	protein	NCBITaxon:196627	20250426	IntAct			GO:0005515	protein binding
+UniProtKB	Q8NPY9	Cgl1672		PMID:19372162IF: 3.5 Q2 	EXP		P	Predicted iron-dependent peroxidase		protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
+UniProtKB	Q8NPY8	Cgl1673		PMID:19372162IF: 3.5 Q2 	EXP		P	Copper chaperone PCu(A)C		protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
+UniProtKB	Q8NQ98	acn		PMID:20647021IF: 3.9 Q2 	IDA		F	Aconitate hydratase A	Cgl1540|cg1737	protein	NCBITaxon:196627	20150323	UniProt			GO:0003994	aconitate hydratase activity
+UniProtKB	Q8NQ98	acn		PMID:20647021IF: 3.9 Q2 	IDA		P	Aconitate hydratase A	Cgl1540|cg1737	protein	NCBITaxon:196627	20150323	UniProt			GO:0019679	propionate metabolic process, methylcitrate cycle
+UniProtKB	Q8NQ98	acn		PMID:20647021IF: 3.9 Q2 	IDA		P	Aconitate hydratase A	Cgl1540|cg1737	protein	NCBITaxon:196627	20150323	UniProt			GO:0006099	tricarboxylic acid cycle
+UniProtKB	Q8NQ98	acn		PMID:20647021IF: 3.9 Q2 	IDA		F	Aconitate hydratase A	Cgl1540|cg1737	protein	NCBITaxon:196627	20150323	UniProt			GO:0051539	4 iron, 4 sulfur cluster binding
+UniProtKB	Q8NQ98	acn		GO_REF:0000024	ISS	UniProtKB:Q8ZP52	F	Aconitate hydratase A	Cgl1540|cg1737	protein	NCBITaxon:196627	20150323	UniProt			GO:0047456	2-methylisocitrate dehydratase activity
+UniProtKB	Q8NQ98	acn		GO_REF:0000024	ISS	UniProtKB:P09339	F	Aconitate hydratase A	Cgl1540|cg1737	protein	NCBITaxon:196627	20150323	UniProt			GO:0003729	mRNA binding
+UniProtKB	Q8NQ98	acn		GO_REF:0000024	ISS	UniProtKB:P09339	F	Aconitate hydratase A	Cgl1540|cg1737	protein	NCBITaxon:196627	20150323	UniProt			GO:0003730	mRNA 3'-UTR binding
+UniProtKB	Q8NQ97	acnR		PMID:23589369IF: 3.9 Q2 	IDA		F	HTH-type transcriptional repressor AcnR	Cgl1541|cg1738	protein	NCBITaxon:196627	20150324	UniProt			GO:0003677	DNA binding
+UniProtKB	Q8NQ97	acnR		PMID:23589369IF: 3.9 Q2 	IDA		F	HTH-type transcriptional repressor AcnR	Cgl1541|cg1738	protein	NCBITaxon:196627	20150324	UniProt			GO:0000287	magnesium ion binding
+UniProtKB	Q8NQ97	acnR		PMID:15494411IF: 3.9 Q2 	IMP		P	HTH-type transcriptional repressor AcnR	Cgl1541|cg1738	protein	NCBITaxon:196627	20150324	UniProt			GO:0006355	regulation of DNA-templated transcription
+UniProtKB	Q8NPJ8	Cgl1814		PMID:19372162IF: 3.5 Q2 	EXP		P	AbiTii domain-containing protein		protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
+UniProtKB	Q79VI7	glxR		PMID:24795375IF: 3.7 Q2 	IPI	RefSeq:NC_003450.3	C	CRP-like cAMP-activated global transcriptional regulator	Cgl0291|cg0350	protein	NCBITaxon:196627	20170328	CollecTF			GO:0032993	protein-DNA complex
+UniProtKB	Q79VI7	glxR		PMID:24795375IF: 3.7 Q2 	IPI	RefSeq:NC_003450.3	F	CRP-like cAMP-activated global transcriptional regulator	Cgl0291|cg0350	protein	NCBITaxon:196627	20170328	CollecTF			GO:0001217	DNA-binding transcription repressor activity
+UniProtKB	Q79VI7	glxR		PMID:24795375IF: 3.7 Q2 	IPI	RefSeq:NC_003450.3	F	CRP-like cAMP-activated global transcriptional regulator	Cgl0291|cg0350	protein	NCBITaxon:196627	20170328	CollecTF			GO:0000976	transcription cis-regulatory region binding
+UniProtKB	Q79VI7	glxR		PMID:20864477IF: 3.5 Q2 	IMP		C	CRP-like cAMP-activated global transcriptional regulator	Cgl0291|cg0350	protein	NCBITaxon:196627	20170328	CollecTF			GO:0032993	protein-DNA complex
+UniProtKB	Q79VI7	glxR		PMID:23396909IF: 3.0 Q3 	IMP		C	CRP-like cAMP-activated global transcriptional regulator	Cgl0291|cg0350	protein	NCBITaxon:196627	20170328	CollecTF			GO:0032993	protein-DNA complex
+UniProtKB	Q79VI7	glxR		PMID:24795375IF: 3.7 Q2 	IMP		C	CRP-like cAMP-activated global transcriptional regulator	Cgl0291|cg0350	protein	NCBITaxon:196627	20170328	CollecTF			GO:0032993	protein-DNA complex
+UniProtKB	Q79VI7	glxR		PMID:20864477IF: 3.5 Q2 	IMP		F	CRP-like cAMP-activated global transcriptional regulator	Cgl0291|cg0350	protein	NCBITaxon:196627	20170328	CollecTF			GO:0001216	DNA-binding transcription activator activity
+UniProtKB	Q79VI7	glxR		PMID:23396909IF: 3.0 Q3 	IMP		F	CRP-like cAMP-activated global transcriptional regulator	Cgl0291|cg0350	protein	NCBITaxon:196627	20170328	CollecTF			GO:0001216	DNA-binding transcription activator activity
+UniProtKB	Q79VI7	glxR		PMID:24795375IF: 3.7 Q2 	IMP		F	CRP-like cAMP-activated global transcriptional regulator	Cgl0291|cg0350	protein	NCBITaxon:196627	20170328	CollecTF			GO:0001217	DNA-binding transcription repressor activity
+UniProtKB	Q79VI7	glxR		PMID:20864477IF: 3.5 Q2 	IMP		F	CRP-like cAMP-activated global transcriptional regulator	Cgl0291|cg0350	protein	NCBITaxon:196627	20170328	CollecTF			GO:0000976	transcription cis-regulatory region binding
+UniProtKB	Q79VI7	glxR		PMID:23396909IF: 3.0 Q3 	IMP		F	CRP-like cAMP-activated global transcriptional regulator	Cgl0291|cg0350	protein	NCBITaxon:196627	20170328	CollecTF			GO:0000976	transcription cis-regulatory region binding
+UniProtKB	Q79VI7	glxR		PMID:24795375IF: 3.7 Q2 	IMP		F	CRP-like cAMP-activated global transcriptional regulator	Cgl0291|cg0350	protein	NCBITaxon:196627	20170328	CollecTF			GO:0000976	transcription cis-regulatory region binding
+UniProtKB	Q79VI7	glxR		PMID:15150232IF: 3.0 Q3 	IDA		P	CRP-like cAMP-activated global transcriptional regulator	Cgl0291|cg0350	protein	NCBITaxon:196627	20150324	UniProt			GO:2000874	regulation of glyoxylate cycle
+UniProtKB	Q79VI7	glxR		PMID:18355281IF: 2.2 Q3 	IDA		P	CRP-like cAMP-activated global transcriptional regulator	Cgl0291|cg0350	protein	NCBITaxon:196627	20150324	UniProt			GO:0006355	regulation of DNA-templated transcription
+UniProtKB	Q79VI7	glxR		PMID:18355281IF: 2.2 Q3 	IDA		F	CRP-like cAMP-activated global transcriptional regulator	Cgl0291|cg0350	protein	NCBITaxon:196627	20150324	UniProt			GO:0003677	DNA binding
+UniProtKB	Q79VI7	glxR		PMID:25469635IF: 2.6 Q2 	IDA		F	CRP-like cAMP-activated global transcriptional regulator	Cgl0291|cg0350	protein	NCBITaxon:196627	20150324	UniProt			GO:0030552	cAMP binding
+UniProtKB	P54582	betP		PMID:19262666IF: 48.5 Q1 	IPI	UniProtKB:P54582	F	Glycine betaine transporter BetP	Cgl0892|cg1016	protein	NCBITaxon:196627	20250426	IntAct			GO:0042802	identical protein binding
+UniProtKB	P54582	betP		PMID:21364531IF: 8.3 Q1 	IPI	UniProtKB:P54582	F	Glycine betaine transporter BetP	Cgl0892|cg1016	protein	NCBITaxon:196627	20250426	IntAct			GO:0042802	identical protein binding
+UniProtKB	P54582	betP		PMID:21681199IF: 6.2 Q1 	IPI	UniProtKB:P54582	F	Glycine betaine transporter BetP	Cgl0892|cg1016	protein	NCBITaxon:196627	20250426	IntAct			GO:0042802	identical protein binding
+UniProtKB	P54582	betP		PMID:22940865IF: 48.5 Q1 	IPI	UniProtKB:P54582	F	Glycine betaine transporter BetP	Cgl0892|cg1016	protein	NCBITaxon:196627	20250426	IntAct			GO:0042802	identical protein binding
+UniProtKB	P54582	betP		PMID:24141878IF: 8.3 Q1 	IPI	UniProtKB:P54582	F	Glycine betaine transporter BetP	Cgl0892|cg1016	protein	NCBITaxon:196627	20250426	IntAct			GO:0042802	identical protein binding
+UniProtKB	Q8NP59	Cgl1962		PMID:15978086IF: 2.6 Q3 	IPI	RefSeq:NC_003450.3	C	HTH cro/C1-type domain-containing protein		protein	NCBITaxon:196627	20170328	CollecTF			GO:0032993	protein-DNA complex
+UniProtKB	Q8NP59	Cgl1962		PMID:15978086IF: 2.6 Q3 	IPI	RefSeq:NC_003450.3	F	HTH cro/C1-type domain-containing protein		protein	NCBITaxon:196627	20170328	CollecTF			GO:0001216	DNA-binding transcription activator activity
+UniProtKB	Q8NP59	Cgl1962		PMID:15978086IF: 2.6 Q3 	IPI	RefSeq:NC_003450.3	F	HTH cro/C1-type domain-containing protein		protein	NCBITaxon:196627	20170328	CollecTF			GO:0000976	transcription cis-regulatory region binding
+UniProtKB	Q8NP59	Cgl1962		PMID:15978086IF: 2.6 Q3 	IMP		C	HTH cro/C1-type domain-containing protein		protein	NCBITaxon:196627	20170328	CollecTF			GO:0032993	protein-DNA complex
+UniProtKB	Q8NP59	Cgl1962		PMID:15978086IF: 2.6 Q3 	IMP		F	HTH cro/C1-type domain-containing protein		protein	NCBITaxon:196627	20170328	CollecTF			GO:0001216	DNA-binding transcription activator activity
+UniProtKB	Q8NP59	Cgl1962		PMID:15978086IF: 2.6 Q3 	IMP		F	HTH cro/C1-type domain-containing protein		protein	NCBITaxon:196627	20170328	CollecTF			GO:0000976	transcription cis-regulatory region binding
+UniProtKB	Q8NP59	Cgl1962		PMID:15978086IF: 2.6 Q3 	IEP		P	HTH cro/C1-type domain-containing protein		protein	NCBITaxon:196627	20170328	CollecTF			GO:0045893	positive regulation of DNA-templated transcription
+UniProtKB	Q8NP59	Cgl1962		PMID:15978086IF: 2.6 Q3 	EXP		C	HTH cro/C1-type domain-containing protein		protein	NCBITaxon:196627	20170328	CollecTF			GO:0032993	protein-DNA complex
+UniProtKB	Q8NP59	Cgl1962		PMID:15978086IF: 2.6 Q3 	EXP		F	HTH cro/C1-type domain-containing protein		protein	NCBITaxon:196627	20170328	CollecTF			GO:0001216	DNA-binding transcription activator activity
+UniProtKB	Q8NP59	Cgl1962		PMID:15978086IF: 2.6 Q3 	EXP		F	HTH cro/C1-type domain-containing protein		protein	NCBITaxon:196627	20170328	CollecTF			GO:0000976	transcription cis-regulatory region binding
+UniProtKB	Q8NLE6	ino-1		PMID:30270521IF: 4.6 Q1 	IDA		F	Inositol-3-phosphate synthase	Cgl2996	protein	NCBITaxon:196627	20220708	UniProt			GO:0070403	NAD+ binding
+UniProtKB	Q8NLE6	ino-1		PMID:30270521IF: 4.6 Q1 	IDA		P	Inositol-3-phosphate synthase	Cgl2996	protein	NCBITaxon:196627	20220708	UniProt			GO:0032958	inositol phosphate biosynthetic process
+UniProtKB	Q8NLE6	ino-1		PMID:30270521IF: 4.6 Q1 	IDA		F	Inositol-3-phosphate synthase	Cgl2996	protein	NCBITaxon:196627	20220708	UniProt			GO:0004512	inositol-3-phosphate synthase activity
+UniProtKB	Q8NLE6	ino-1		PMID:30270521IF: 4.6 Q1 	IMP		P	Inositol-3-phosphate synthase	Cgl2996	protein	NCBITaxon:196627	20220708	UniProt			GO:0010125	mycothiol biosynthetic process
+UniProtKB	Q8NLB6	Cgl3026		PMID:20806251IF: 2.7 Q3 	IDA		F	3-hydroxybenzoate 6-hydroxylase	cg3354	protein	NCBITaxon:196627	20110812	UniProt			GO:0018669	3-hydroxybenzoate 6-monooxygenase activity
+UniProtKB	Q8NLB6	Cgl3026		PMID:20806251IF: 2.7 Q3 	IDA		F	3-hydroxybenzoate 6-hydroxylase	cg3354	protein	NCBITaxon:196627	20110812	UniProt			GO:0050660	flavin adenine dinucleotide binding
+UniProtKB	O85175	argR		PMID:21115700IF: 3.7 Q2 	EXP		P	Arginine repressor	Cgl1399|cg1585	protein	NCBITaxon:196627	20170328	CollecTF			GO:0045893	positive regulation of DNA-templated transcription
+UniProtKB	O85175	argR		PMID:21115700IF: 3.7 Q2 	IMP		C	Arginine repressor	Cgl1399|cg1585	protein	NCBITaxon:196627	20170328	CollecTF			GO:0032993	protein-DNA complex
+UniProtKB	O85175	argR		PMID:21115700IF: 3.7 Q2 	IMP		F	Arginine repressor	Cgl1399|cg1585	protein	NCBITaxon:196627	20170328	CollecTF			GO:0001216	DNA-binding transcription activator activity
+UniProtKB	O85175	argR		PMID:21115700IF: 3.7 Q2 	IMP		F	Arginine repressor	Cgl1399|cg1585	protein	NCBITaxon:196627	20170328	CollecTF			GO:0000976	transcription cis-regulatory region binding
+UniProtKB	P94335	murC		PMID:18974047IF: 3.9 Q2 	IDA		F	UDP-N-acetylmuramate--L-alanine ligase	Cgl2157|cg2368	protein	NCBITaxon:196627	20130412	CACAO			GO:0008763	UDP-N-acetylmuramate-L-alanine ligase activity
+UniProtKB	Q8NP42	Cgl1983		PMID:19304823IF: 3.7 Q2 	IMP		F	Exopolyphosphatase-related proteins		protein	NCBITaxon:196627	20160410	CACAO			GO:0004309	exopolyphosphatase activity
+UniProtKB	Q79VH1	Cgl1163		PMID:19372162IF: 3.5 Q2 	EXP		P	Sodium/proline symporter		protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
+UniProtKB	Q8NPK6	Cgl1806		PMID:19372162IF: 3.5 Q2 	EXP		P	DUF2188 domain-containing protein		protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
+UniProtKB	Q8NR86	Cgl1167		PMID:19372162IF: 3.5 Q2 	EXP		P	Endonuclease GajA/Old nuclease/RecF-like AAA domain-containing protein		protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
+UniProtKB	Q9AE10	ruvA		PMID:19372162IF: 3.5 Q2 	EXP		P	Holliday junction branch migration complex subunit RuvA	Cgl1661|cg1870	protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
+UniProtKB	Q9AE09	ruvB		PMID:19372162IF: 3.5 Q2 	EXP		P	Holliday junction branch migration complex subunit RuvB	Cgl1660|cg1869	protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
+UniProtKB	Q8NU97	pknA		PMID:18442973IF: 3.9 Q2 	IDA		F	Serine/threonine-protein kinases PknA	drp72|Cgl0042|cg0059	protein	NCBITaxon:196627	20111129	CACAO			GO:0016772	transferase activity, transferring phosphorus-containing groups
+UniProtKB	Q8NU97	pknA		PMID:18974047IF: 3.9 Q2 	IMP		F	Serine/threonine-protein kinases PknA	drp72|Cgl0042|cg0059	protein	NCBITaxon:196627	20130412	CACAO			GO:0004674	protein serine/threonine kinase activity
+UniProtKB	Q8NTD8	ramB		PMID:18355281IF: 2.2 Q3 	IDA		F	HTH-type transcriptional regulator RamB	Cgl0369|cg0444	protein	NCBITaxon:196627	20150324	UniProt			GO:0003677	DNA binding
+UniProtKB	Q8NTD8	ramB		PMID:15090522IF: 3.0 Q3 	IMP		P	HTH-type transcriptional regulator RamB	Cgl0369|cg0444	protein	NCBITaxon:196627	20150324	UniProt			GO:0006355	regulation of DNA-templated transcription
+UniProtKB	Q8NTD8	ramB		PMID:18355281IF: 2.2 Q3 	IMP		P	HTH-type transcriptional regulator RamB	Cgl0369|cg0444	protein	NCBITaxon:196627	20150324	UniProt			GO:0006355	regulation of DNA-templated transcription
+UniProtKB	Q8NTB5	Cgl0392		PMID:19372162IF: 3.5 Q2 	EXP		P	Htaa domain-containing protein		protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
+UniProtKB	Q8NTB4	Cgl0393		PMID:19372162IF: 3.5 Q2 	EXP		P	Htaa domain-containing protein		protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
+UniProtKB	Q8NT41	mgtA		PMID:19395496IF: 3.0 Q3 	IDA		P	GDP-mannose-dependent alpha-mannosyltransferase	Cgl0469|cg0554	protein	NCBITaxon:196627	20110815	UniProt			GO:0009247	glycolipid biosynthetic process
+UniProtKB	Q8NT41	mgtA		PMID:17179146IF: 3.9 Q2 	IDA		F	GDP-mannose-dependent alpha-mannosyltransferase	Cgl0469|cg0554	protein	NCBITaxon:196627	20110815	UniProt			GO:0000030	mannosyltransferase activity
+UniProtKB	Q8NSM6	Cgl0642		PMID:19372162IF: 3.5 Q2 	EXP		P	Metal-dependent hydrolase		protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
+UniProtKB	Q8NLC5	Cgl3017		PMID:19372162IF: 3.5 Q2 	EXP		P	Uncharacterized protein		protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
+UniProtKB	P31026	gdh		GO_REF:0000024	ISS	UniProtKB:P00370	C	NADP-specific glutamate dehydrogenase	Cgl2079|cg2280	protein	NCBITaxon:196627	20120515	UniProt			GO:0005737	cytoplasm
+UniProtKB	P31026	gdh		GO_REF:0000024	ISS	UniProtKB:P00370	F	NADP-specific glutamate dehydrogenase	Cgl2079|cg2280	protein	NCBITaxon:196627	20120515	UniProt			GO:0004354	glutamate dehydrogenase (NADP+) activity
+UniProtKB	P31026	gdh		GO_REF:0000024	ISS	UniProtKB:P00370	P	NADP-specific glutamate dehydrogenase	Cgl2079|cg2280	protein	NCBITaxon:196627	20120515	UniProt			GO:0006537	glutamate biosynthetic process
+UniProtKB	Q8NRC3	odhA		PMID:20303957IF: 3.0 Q2 	IPI	UniProtKB:Q8NQJ3	F	2-oxoglutarate dehydrogenase E1/E2 component	Cgl1129|cg1280	protein	NCBITaxon:196627	20250426	IntAct			GO:0005515	protein binding
+UniProtKB	P08499	hom		GO_REF:0000024	ISS	UniProtKB:P31116	F	Homoserine dehydrogenase	thrA|Cgl1183|cg1337	protein	NCBITaxon:196627	20240320	UniProt			GO:0070403	NAD+ binding
+UniProtKB	P08499	hom		GO_REF:0000024	ISS	UniProtKB:P31116	F	Homoserine dehydrogenase	thrA|Cgl1183|cg1337	protein	NCBITaxon:196627	20240320	UniProt			GO:0004412	homoserine dehydrogenase activity
+UniProtKB	P08499	hom		GO_REF:0000024	ISS	UniProtKB:P31116	P	Homoserine dehydrogenase	thrA|Cgl1183|cg1337	protein	NCBITaxon:196627	20240320	UniProt			GO:0009086	methionine biosynthetic process
+UniProtKB	P08499	hom		GO_REF:0000024	ISS	UniProtKB:P31116	P	Homoserine dehydrogenase	thrA|Cgl1183|cg1337	protein	NCBITaxon:196627	20240320	UniProt			GO:0009088	threonine biosynthetic process
+UniProtKB	Q8NRR3	ripA		PMID:16179344IF: 3.9 Q2 	IMP		P	HTH-type transcriptional regulator RipA	Cgl0982|cg1120	protein	NCBITaxon:196627	20150324	UniProt			GO:0006355	regulation of DNA-templated transcription
+UniProtKB	Q57179	ilvC		PMID:12948643IF: 3.9 Q2 	IMP		F	Ketol-acid reductoisomerase (NADP(+))	Cgl1273|cg1437	protein	NCBITaxon:196627	20120412	CACAO			GO:0008677	2-dehydropantoate 2-reductase activity
+UniProtKB	Q9X5C9	aroE		PMID:23929881IF: 2.4 Q3 	IDA		F	Quinate/shikimate dehydrogenase (NAD(+))	qsuD|Cgl0424|cg0504	protein	NCBITaxon:196627	20141114	UniProt			GO:0070403	NAD+ binding
+UniProtKB	Q9X5C9	aroE		PMID:18566515	IDA		F	Quinate/shikimate dehydrogenase (NAD(+))	qsuD|Cgl0424|cg0504	protein	NCBITaxon:196627	20141114	UniProt			GO:0070403	NAD+ binding
+UniProtKB	Q9X5C9	aroE		PMID:18566515	IDA		P	Quinate/shikimate dehydrogenase (NAD(+))	qsuD|Cgl0424|cg0504	protein	NCBITaxon:196627	20141114	UniProt			GO:0009423	chorismate biosynthetic process
+UniProtKB	Q9X5C9	aroE		PMID:23929881IF: 2.4 Q3 	IDA		P	Quinate/shikimate dehydrogenase (NAD(+))	qsuD|Cgl0424|cg0504	protein	NCBITaxon:196627	20141114	UniProt			GO:0009423	chorismate biosynthetic process
+UniProtKB	Q9X5C9	aroE		PMID:18566515	IDA		P	Quinate/shikimate dehydrogenase (NAD(+))	qsuD|Cgl0424|cg0504	protein	NCBITaxon:196627	20141114	UniProt			GO:0019632	shikimate metabolic process
+UniProtKB	Q9X5C9	aroE		PMID:23929881IF: 2.4 Q3 	IDA		P	Quinate/shikimate dehydrogenase (NAD(+))	qsuD|Cgl0424|cg0504	protein	NCBITaxon:196627	20141114	UniProt			GO:0019632	shikimate metabolic process
+UniProtKB	Q9X5C9	aroE		PMID:18566515	IDA		F	Quinate/shikimate dehydrogenase (NAD(+))	qsuD|Cgl0424|cg0504	protein	NCBITaxon:196627	20141114	UniProt			GO:0030266	quinate 3-dehydrogenase (NAD+) activity
+UniProtKB	Q9X5C9	aroE		PMID:23929881IF: 2.4 Q3 	IDA		F	Quinate/shikimate dehydrogenase (NAD(+))	qsuD|Cgl0424|cg0504	protein	NCBITaxon:196627	20141114	UniProt			GO:0030266	quinate 3-dehydrogenase (NAD+) activity
+UniProtKB	Q6M6E7	glpX		PMID:12904832IF: 2.6 Q3 	IDA		F	Fructose-1,6-bisphosphatase class 2	fbp|Cgl1019|cg1157	protein	NCBITaxon:196627	20101202	UniProt			GO:0042132	fructose 1,6-bisphosphate 1-phosphatase activity
+UniProtKB	Q6M6E7	glpX		PMID:12904832IF: 2.6 Q3 	IDA		P	Fructose-1,6-bisphosphatase class 2	fbp|Cgl1019|cg1157	protein	NCBITaxon:196627	20101202	UniProt			GO:0030388	fructose 1,6-bisphosphate metabolic process
+UniProtKB	Q6M6E7	glpX		PMID:12904832IF: 2.6 Q3 	IDA		F	Fructose-1,6-bisphosphatase class 2	fbp|Cgl1019|cg1157	protein	NCBITaxon:196627	20101202	UniProt			GO:0000287	magnesium ion binding
+UniProtKB	Q6M6E7	glpX		PMID:12904832IF: 2.6 Q3 	IDA		F	Fructose-1,6-bisphosphatase class 2	fbp|Cgl1019|cg1157	protein	NCBITaxon:196627	20101202	UniProt			GO:0030145	manganese ion binding
+UniProtKB	Q6M6E7	glpX		PMID:12904832IF: 2.6 Q3 	IMP		P	Fructose-1,6-bisphosphatase class 2	fbp|Cgl1019|cg1157	protein	NCBITaxon:196627	20101202	UniProt			GO:0006094	gluconeogenesis
+UniProtKB	Q01651	gap		GO_REF:0000024	ISS	UniProtKB:P9WN83	F	Glyceraldehyde-3-phosphate dehydrogenase	Cgl1588|cg1791	protein	NCBITaxon:196627	20150707	UniProt			GO:0004365	glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity
+UniProtKB	Q01651	gap		GO_REF:0000024	ISS	UniProtKB:P9WN83	F	Glyceraldehyde-3-phosphate dehydrogenase	Cgl1588|cg1791	protein	NCBITaxon:196627	20150707	UniProt			GO:0051287	NAD binding
+UniProtKB	Q6M7C6	dnaE2		PMID:19372162IF: 3.5 Q2 	EXP		P	Error-prone DNA polymerase	Cgl0638|cg0738	protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
+UniProtKB	Q8NMD2	Cgl2646		PMID:25799411IF: 3.9 Q1 	IDA		F	Dihydrodipicolinate synthase/N-acetylneuraminate lyase		protein	NCBITaxon:196627	20150327	CACAO			GO:0008747	N-acetylneuraminate lyase activity
+UniProtKB	Q8NNC6	glyQS		GO_REF:0000024	ISS	UniProtKB:P41250	F	Glycine--tRNA ligase	glyS|Cgl2278|cg2499	protein	NCBITaxon:196627	20091123	UniProt			GO:0046983	protein dimerization activity
+UniProtKB	Q8NNC6	glyQS		GO_REF:0000024	ISS	UniProtKB:P41250	F	Glycine--tRNA ligase	glyS|Cgl2278|cg2499	protein	NCBITaxon:196627	20091123	UniProt			GO:0004820	glycine-tRNA ligase activity
+UniProtKB	Q8NNM4	Cgl2169		PMID:19372162IF: 3.5 Q2 	EXP		P	SAV-6107-like HEPN domain-containing protein		protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
+UniProtKB	Q04513	ilvA		GO_REF:0000024	ISS	UniProtKB:P04968	P	L-threonine dehydratase biosynthetic IlvA	Cgl2127|cg2334	protein	NCBITaxon:196627	20120124	UniProt			GO:0006566	threonine metabolic process
+UniProtKB	P42442	recA		PMID:19372162IF: 3.5 Q2 	EXP		P	Protein RecA	Cgl1955|cg2141	protein	NCBITaxon:196627	20170328	CollecTF			GO:0009432	SOS response
