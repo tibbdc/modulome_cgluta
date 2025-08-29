@@ -1,7 +1,9 @@
 # modulome_cgluta
+
 iModulon structure of Corynebacterium glutamicum
 
 ## Create environment
+
 ```
 conda create --name PyModulon  python=3.7
 conda activate PyModulon
@@ -17,21 +19,25 @@ python -m ipykernel install --user --name PyModulon --display-name "PyModulon"
 ```
 
 # Instructions
+
 ## Each Jupyter notebook contains usage instructions, and here we provide example and explanations for important files.
+
 * 1_create_the_gene_table_zjx.ipynb
-    * Download the FASTA and GFF files for your organism and its plasmids from NCBI.(e.g. `genome.gff3`) 
-    * Download the annotation file for your organism from [EggNOG Mapper](http://eggnog-mapper.embl.de/).(e.g. `eggNOG_annotations.txt`)
-    * Download the annotation file for your organism from [Biocyc.org](https://biocyc.org/).(e.g. `biocyc_annotations.txt`)
-    * Download the annotation file for your organism from [AmiGO 2](http://amigo.geneontology.org/amigo/search/annotation).(e.g. `GO_annotations.txt`) 
 
+  * Download the FASTA and GFF files for your organism and its plasmids from NCBI.(e.g. `genome.gff3`)
+  * Download the annotation file for your organism from [EggNOG Mapper](http://eggnog-mapper.embl.de/).(e.g. `eggNOG_annotations.txt`)
+  * Download the annotation file for your organism from [Biocyc.org](https://biocyc.org/).(e.g. `biocyc_annotations.txt`)
+  * Download the annotation file for your organism from [AmiGO 2](http://amigo.geneontology.org/amigo/search/annotation).(e.g. `GO_annotations.txt`)
 * 2_iModulon_characterization_zjx.ipynb
-    * M and A matrices(e.g. `M.csv`、`A.csv`)
-    * Expression data (e.g. `log_tpm.csv`)
-    * Gene table and KEGG/GO annotations (Generated in `create_the_gene_table_zjx.ipynb`)(e.g. `gene_info.csv`)
-    * Sample table, with a column for `project` and `condition`(e.g. `sample.csv`)
-    * TRN file(e.g. `trn_test.csv`)
 
+  * M and A matrices(e.g. `M.csv`、`A.csv`)
+  * Expression data (e.g. `log_tpm.csv`)
+  * Gene table and KEGG/GO annotations (Generated in `create_the_gene_table_zjx.ipynb`)(e.g. `gene_info.csv`)
+  * Sample table, with a column for `project` and `condition`(e.g. `sample.csv`)
+  * TRN file(e.g. `trn_test.csv`)
 * The remaining notebooks are all examples of analyzing iModulons using cgu.json.gz. You can change the icadata to use them.
 * The results of our operation are stored in cgu_raw.json.gz and can be directly extracted and used.
 
+## How to cite:
 
+Jianxiao Zhao,Xi Sun,Zhitao Mao,Yangyang Zheng,Zhouxiao Geng,Yuhan Zhang,Hongwu Ma,Zhiwen Wang, Independent component analysis of*Coryneb**acterium glutamicum*transcriptomes reveals its transcriptional regulatory network,Microbiological Research, 2023; [https://doi.org/10.1016/j.micres.2023.127485](https://doi.org/10.1016/j.micres.2023.127485 "Persistent link using digital object identifier")
