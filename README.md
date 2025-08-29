@@ -40,4 +40,4 @@ python -m ipykernel install --user --name PyModulon --display-name "PyModulon"
 
 ## How to cite:
 
-Jianxiao Zhao,Xi Sun,Zhitao Mao,Yangyang Zheng,Zhouxiao Geng,Yuhan Zhang,Hongwu Ma,Zhiwen Wang, Independent component analysis of*Coryneb**acterium glutamicum*transcriptomes reveals its transcriptional regulatory network,Microbiological Research, 2023; [https://doi.org/10.1016/j.micres.2023.127485](https://doi.org/10.1016/j.micres.2023.127485 "Persistent link using digital object identifier")
+Jianxiao Zhao,Xi Sun,Zhitao Mao,Yangyang Zheng,Zhouxiao Geng,Yuhan Zhang,Hongwu Ma,Zhiwen Wang, Independent component analysis of *Coryneb*acterium glutamicum transcriptomes reveals its transcriptional regulatory network, Microbiological Research, 2023; [https://doi.org/10.1016/j.micres.2023.127485](https://doi.org/10.1016/j.micres.2023.127485 "Persistent link using digital object identifier")
